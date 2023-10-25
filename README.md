@@ -1,4 +1,8 @@
-# This is a default Python repository [![Python CI](https://github.com/DivyaSharma0795/Basic_Python_Repository/actions/workflows/main.yml/badge.svg)](https://github.com/DivyaSharma0795/Basic_Python_Repository/actions/workflows/main.yml)
+# Week 08 Mini Project: Comparing Performance of Rust vs Python [![Python CI](https://github.com/DivyaSharma0795/Basic_Python_Repository/actions/workflows/main.yml/badge.svg)](https://github.com/DivyaSharma0795/Basic_Python_Repository/actions/workflows/main.yml)
+
+
+Rewrite a Python script for data processing in Rust, highlighting the improvements in speed and resource usage.
+
 
 Files in this repository include:
 
