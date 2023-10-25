@@ -1,7 +1,9 @@
 # Week 08 Mini Project: Comparing Performance of Rust vs Python [![Python CI](https://github.com/DivyaSharma0795/Basic_Python_Repository/actions/workflows/main.yml/badge.svg)](https://github.com/DivyaSharma0795/Basic_Python_Repository/actions/workflows/main.yml)
 
+**Requirement** - Rewrite a Python script for data processing in Rust, highlighting the improvements in speed and resource usage.
 
-Rewrite a Python script for data processing in Rust, highlighting the improvements in speed and resource usage.
+This repository contains both `Python` and `Rust` Codes for the recursive [Factorial](https://www.mathsisfun.com/numbers/factorial.html) function. The time comparisons for both are logged in the `Summary.md` file. 
+
 
 
 Files in this repository include:
