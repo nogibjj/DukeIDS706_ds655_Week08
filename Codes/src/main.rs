@@ -1,5 +1,5 @@
 use criterion::{black_box, criterion_group, criterion_main, Criterion};
-
+use std::time::Instant;
 fn factorial(n: u128) -> u128 {
     (1..=n).product()
 }
