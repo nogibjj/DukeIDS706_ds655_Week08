@@ -1,4 +1,4 @@
-# Week 08 Mini Project: Comparing Performance of Rust vs Python [![Python CI](https://github.com/DivyaSharma0795/Basic_Python_Repository/actions/workflows/main.yml/badge.svg)](https://github.com/DivyaSharma0795/Basic_Python_Repository/actions/workflows/main.yml)
+# Week 08 Mini Project: Comparing Performance of Rust vs Python [![Python CI](https://github.com/nogibjj/DukeIDS706_ds655_Week08/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/DukeIDS706_ds655_Week08/actions/workflows/main.yml)
 
 **Requirement** - Rewrite a Python script for data processing in Rust, highlighting the improvements in speed and resource usage.
 
